@@ -22,7 +22,4 @@ async function enviarScript(scriptText){
 	return lines.length;
 }
 
-enviarScript(`
-VOCÊ ESTA DEVENDO PARA CENTER CLIMA
-
-`).then(e => console.log(`Código finalizado, ${e} mensagens enviadas`)).catch(console.error)
+enviarScript(``).then(e => console.log(`Código finalizado, ${e} mensagens enviadas`)).catch(console.error)
