@@ -15,3 +15,5 @@ No WhatsApp Web abra o console do Browser
 Cole o código no console e aperte Enter
 
 Pronto
+
+e arquivos bat simples  
