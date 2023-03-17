@@ -16,4 +16,4 @@ Cole o código no console e aperte Enter
 
 Pronto
 
-e arquivos bat simples  
+e arquivos bat
